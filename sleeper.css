@@ -1,0 +1,30 @@
+    body {
+	color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+	}
+
+    h1 {
+        font: normal 16px Arial, sans-serif;
+    }
+
+	.zui-table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+	}
+	.zui-table th {
+		background-color: #cccccc;
+		border: solid 1px #DDEEEE;
+		color: #33406b;
+		padding: 10px;
+		text-align: left;
+		text-shadow: 1px 1px 1px #fff;
+	}
+	.zui-table tbody td {
+		background-color: #ffffff;
+        border: solid 1px #DDEEEE;
+		color: #333;
+		padding: 10px;
+		text-shadow: 1px 1px 1px #fff;
+	}
